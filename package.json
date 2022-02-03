@@ -1,0 +1,14 @@
+{
+  "name": "expanding_cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JpunktWpunkt",
+  "license": "ISC",
+  "dependencies": {
+    "dev-server": "^0.2.0"
+  }
+}
